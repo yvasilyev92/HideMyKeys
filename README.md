@@ -64,4 +64,6 @@ high level .gitignore file found in your Project structure (not the one in your 
 is with the .gitignore plugin tool found in Android. I did not include this in my project since then you would not be able to see
 the example files.
 
+All the examples I used in this README file can be found in my Application.
+
 Hope you found this helpful. Enjoy.
